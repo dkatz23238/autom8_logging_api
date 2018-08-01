@@ -8,10 +8,10 @@ client_API.py will allow users to log RPA's as client
 
 MongoDB must be installed on system
 
-# Dependancies:
+# dependancies:
 
-flask
-pymongo
-json
-datetime
-uuid
+- flask
+- pymongo
+- json
+- datetime
+- uuid
